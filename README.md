@@ -1,2 +1,2 @@
 # modelando-cenario-e-commerce
-Nesse projeto foi feita a modelagem de dados de um cenário e-commerce
+Nesse projeto foi feito um esquema de modelagem conceitual para o cenário em plataformas e-commerce. O programa utilizado para fazer a modelagem de dados foi o MySQL Workbench. 
